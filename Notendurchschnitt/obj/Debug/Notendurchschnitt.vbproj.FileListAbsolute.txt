@@ -1,0 +1,10 @@
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\bin\Debug\Notendurchschnitt.exe
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\bin\Debug\Notendurchschnitt.pdb
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\bin\Debug\Notendurchschnitt.xml
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\obj\Debug\Notendurchschnitt.vbprojResolveAssemblyReference.cache
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\obj\Debug\Notendurchschnitt.Form1.resources
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\obj\Debug\Notendurchschnitt.Resources.resources
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\obj\Debug\Notendurchschnitt.vbproj.GenerateResource.Cache
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\obj\Debug\Notendurchschnitt.exe
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\obj\Debug\Notendurchschnitt.xml
+c:\users\moritz\documents\visual studio 2015\Projects\Notendurchschnitt\Notendurchschnitt\obj\Debug\Notendurchschnitt.pdb
