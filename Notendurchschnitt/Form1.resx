@@ -247,7 +247,7 @@
     <value>4</value>
   </data>
   <data name="RadioButton1.Text" xml:space="preserve">
-    <value>Trennen mit Semikolen</value>
+    <value>Trennen mit Semikolon</value>
   </data>
   <data name="&gt;&gt;RadioButton1.Name" xml:space="preserve">
     <value>RadioButton1</value>
